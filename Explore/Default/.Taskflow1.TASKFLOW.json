@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "citruvYpREFhGJYMERHjSO",
+    "name" : "Taskflow1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "T76i3zymbduaa-gt-15709466-2023-11-29T07:23:32.741Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-11-29T07:24:13.184Z",
+  "objectRefs" : [ ]
+}
